@@ -2,7 +2,7 @@ package ejercicios
 
 // EJERCICIO 5: Bucle while
 // ========================================
-// Dado un numero, calcula la suma de sus digitos usando while.
+// Dado un numero, calcula la suma de sus digitos usaaando while.
 // Mientras el numero sea mayor a 0, extrae el ultimo digito con % 10
 // y reduce el numero con / 10.
 //
