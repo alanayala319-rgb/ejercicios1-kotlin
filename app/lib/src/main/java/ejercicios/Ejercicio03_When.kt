@@ -4,7 +4,7 @@ package ejercicios// EJERCICIO 3: Expresion when
 // del dia de la semana usando "when".
 // Si el numero no esta en el rango 1-7, imprime "Dia no valido".
 //
-// 1 = Lunes, 2 = Martes, 3 = Miercoles, 4 = Juevese,
+// 1 = Lunes, 2 = Martes, 3 = Miercoles, 4 = Jueveseaa,
 // 5 = Viernes, 6 = Sabado, 7 = Domingo
 //
 // Salida esperada:
