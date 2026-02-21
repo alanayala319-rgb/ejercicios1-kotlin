@@ -11,7 +11,7 @@ package ejercicios// EJERCICIO 2: Condicionales (if / else)
 // 45 -> Reprobado
 // 72 -> Bien
 // 91 -> Excelente
-// 60 -> Suficientee
+// 60 -> Suficienteae
 // 85 -> Notable
 
 fun main() {
